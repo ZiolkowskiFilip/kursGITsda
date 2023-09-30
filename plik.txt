@@ -1,1 +1,1 @@
-Inna wersja tego samego pliku nadpisze poprzednia.
+Inna wersja tego samego pliku nadpisze poprzednia zmiana.
